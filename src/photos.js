@@ -158,6 +158,38 @@ import foto151 from './assets/images/day-7/img151.JPG';
 import foto152 from './assets/images/day-7/img152.JPG';
 import foto153 from './assets/images/day-7/img153.jpg';
 
+import foto187 from './assets/images/day-8/img187.jpg';
+import foto188 from './assets/images/day-8/img188.jpg';
+import foto189 from './assets/images/day-8/img189.jpg';
+import foto190 from './assets/images/day-8/img190.jpg';
+import foto191 from './assets/images/day-8/img191.jpg';
+import foto192 from './assets/images/day-8/img192.jpg';
+import foto193 from './assets/images/day-8/img193.jpg';
+import foto194 from './assets/images/day-8/img194.jpg';
+import foto195 from './assets/images/day-8/img195.jpg';
+import foto196 from './assets/images/day-8/img196.jpg';
+import foto197 from './assets/images/day-8/img197.jpg';
+import foto198 from './assets/images/day-8/img198.jpg';
+import foto199 from './assets/images/day-8/img199.jpg';
+import foto200 from './assets/images/day-8/img200.jpg';
+import foto201 from './assets/images/day-8/img201.jpg';
+import foto202 from './assets/images/day-8/img202.jpg';
+import foto203 from './assets/images/day-8/img203.jpg';
+import foto204 from './assets/images/day-8/img204.jpg';
+import foto205 from './assets/images/day-8/img205.jpg';
+import foto206 from './assets/images/day-8/img206.jpg';
+import foto207 from './assets/images/day-8/img207.jpg';
+import foto208 from './assets/images/day-8/img208.jpg';
+import foto209 from './assets/images/day-8/img209.jpg';
+import foto210 from './assets/images/day-8/img210.jpg';
+import foto211 from './assets/images/day-8/img211.jpg';
+import foto212 from './assets/images/day-8/img212.jpg';
+import foto213 from './assets/images/day-8/img213.jpg';
+import foto214 from './assets/images/day-8/img214.jpg';
+import foto215 from './assets/images/day-8/img215.jpg';
+import foto216 from './assets/images/day-8/img216.jpg';
+import foto217 from './assets/images/day-8/img217.jpg';
+
 export const photos = [
   {
     src: foto1,
@@ -921,6 +953,161 @@ export const photos = [
   },
   {
     src: foto153,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto187,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto188,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto189,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto190,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto191,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto192,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto193,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto194,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto195,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto196,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto197,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto198,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto199,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto200,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto201,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto202,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto203,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto204,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto205,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto206,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto207,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto208,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto209,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto210,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto211,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto212,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto213,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto214,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto215,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto216,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto217,
     width: 3,
     height: 4
   },
