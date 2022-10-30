@@ -543,13 +543,13 @@ export const photos = [
   },
   {
     src: foto71,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto72,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto73,
@@ -563,23 +563,23 @@ export const photos = [
   },
   {
     src: foto75,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto76,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto77,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto78,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto79,
@@ -593,8 +593,8 @@ export const photos = [
   },
   {
     src: foto81,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto82,
