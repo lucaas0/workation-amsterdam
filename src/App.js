@@ -20,11 +20,15 @@ function App() {
     setCurrentImage(0);
     setViewerIsOpen(false);
   };
+
+  const openInNewTab = url => {
+    window.open('https://void.software', '_blank', 'noopener,noreferrer');
+  };
   
     return(
       <div className="app">
       <div className='header'>
-        <img className='void' src={logo} alt="VOID" />
+        <img className='void' src={logo} alt="VOID" onClick={openInNewTab} />
         <img className='workation' src={workation} alt="WORKATION" />
         <div className='workers'>
           <span>Lucas Garcia</span>
@@ -51,7 +55,7 @@ function App() {
       </div>
       <div className='footer'>
         <img className='footer-logo-1' src={footerLogo1} alt="AMSTERDAM" />
-        <span>Powered by <u>Void Software</u></span>
+        <span>Powered by <u onClick={openInNewTab}>Void Software</u></span>
         <img className='footer-logo-2' src={footerLogo2} alt="AMSTERDAM" />
         <p>Designed and programmed under no effects or substances *wink* *wink*</p>
       </div>

@@ -473,23 +473,23 @@ export const photos = [
   },
   {
     src: foto57,
-    width: 3,
-    height: 4
+    width: 9,
+    height: 16
   },
   {
     src: foto58,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto59,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto60,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto61,
@@ -553,8 +553,8 @@ export const photos = [
   },
   {
     src: foto73,
-    width: 4,
-    height: 3
+    width: 3,
+    height: 2
   },
   {
     src: foto74,
@@ -918,13 +918,13 @@ export const photos = [
   },
   {
     src: foto146,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: foto147,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: foto148,
@@ -943,8 +943,8 @@ export const photos = [
   },
   {
     src: foto151,
-    width: 3,
-    height: 4
+    width: 4,
+    height: 6
   },
   {
     src: foto152,
