@@ -29,9 +29,20 @@ code {
   width: 100%;
 }
 
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .void {
   margin: 70px 0;
   cursor: pointer;
+}
+
+.amsterdam-logo {
+  width: 5%;
+  margin: 0 80px;
 }
 
 .workation {

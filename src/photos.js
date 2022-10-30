@@ -112,7 +112,7 @@ import foto107 from './assets/images/day-5/img107.jpg';
 import foto108 from './assets/images/day-5/img108.jpg';
 import foto109 from './assets/images/day-5/img109.jpg';
 import foto110 from './assets/images/day-5/img110.jpg';
-import foto111 from './assets/images/day-5/img113.jpg';
+import foto111 from './assets/images/day-5/img111.jpg';
 import foto112 from './assets/images/day-5/img112.jpg';
 import foto113 from './assets/images/day-5/img113.jpg';
 import foto114 from './assets/images/day-5/img114.jpg';
