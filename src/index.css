@@ -5,9 +5,84 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #000;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.app {
+  text-align: center;
+  background-color: #000;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  width: 100%;
+}
+
+.void {
+  margin: 70px 0;
+}
+
+.workation {
+  width: 45%;  
+}
+
+.photos {
+  width: 95%;
+  margin-left: 2.5%;
+}
+
+.workers {
+  margin-top: 56px;
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.workers span {
+  margin: 0 20px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  margin-top: 70px;
+  flex-direction: column;
+}
+
+.footer-logo-1, .footer-logo-2 {
+  margin: 50px 0;
+}
+
+.footer .footer-logo-2 {
+  margin-top: 50px;
+}
+
+.footer-logo-1 {
+  width: 45%;
+}
+
+.footer-logo-2 {
+  width: 100%;
+}
+
+.footer span {
+  margin-bottom: 50px;
+}
+
+.footer p {
+  color: #fff;
+  opacity: 60%;
+  margin-bottom: 20px;
 }
