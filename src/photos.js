@@ -25,6 +25,7 @@ import foto24 from './assets/images/day-1/img24.jpg';
 import foto25 from './assets/images/day-1/img25.jpg';
 import foto26 from './assets/images/day-1/img26.jpg';
 import foto27 from './assets/images/day-1/img27.jpg';
+
 import foto28 from './assets/images/day-2/img28.jpg';
 import foto29 from './assets/images/day-2/img29.jpg';
 import foto30 from './assets/images/day-2/img30.jpg';
@@ -53,6 +54,7 @@ import foto52 from './assets/images/day-2/img52.jpg';
 import foto53 from './assets/images/day-2/img53.jpg';
 import foto54 from './assets/images/day-2/img54.jpg';
 import foto55 from './assets/images/day-2/img55.jpg';
+
 import foto56 from './assets/images/day-3/img56.JPG';
 import foto57 from './assets/images/day-3/img57.JPG';
 import foto58 from './assets/images/day-3/img58.JPG';
@@ -61,6 +63,7 @@ import foto60 from './assets/images/day-3/img60.JPG';
 import foto61 from './assets/images/day-3/img61.JPG';
 import foto62 from './assets/images/day-3/img62.JPG';
 import foto63 from './assets/images/day-3/img63.JPG';
+
 import foto64 from './assets/images/day-4/img64.JPG';
 import foto65 from './assets/images/day-4/img65.JPG';
 import foto66 from './assets/images/day-4/img66.JPG';
@@ -92,6 +95,38 @@ import foto91 from './assets/images/day-4/img91.jpg';
 import foto92 from './assets/images/day-4/img92.jpg';
 import foto93 from './assets/images/day-4/img93.jpg';
 import foto94 from './assets/images/day-4/img94.jpg';
+
+import foto95 from './assets/images/day-5/img95.jpg';
+import foto96 from './assets/images/day-5/img96.jpg';
+import foto97 from './assets/images/day-5/img97.jpg';
+import foto98 from './assets/images/day-5/img98.jpg';
+import foto99 from './assets/images/day-5/img99.jpg';
+import foto100 from './assets/images/day-5/img100.jpg';
+import foto101 from './assets/images/day-5/img101.jpg';
+import foto102 from './assets/images/day-5/img102.jpg';
+import foto103 from './assets/images/day-5/img103.jpg';
+import foto104 from './assets/images/day-5/img104.jpg';
+import foto105 from './assets/images/day-5/img105.jpg';
+import foto106 from './assets/images/day-5/img106.jpg';
+import foto107 from './assets/images/day-5/img107.jpg';
+import foto108 from './assets/images/day-5/img108.jpg';
+import foto109 from './assets/images/day-5/img109.jpg';
+import foto110 from './assets/images/day-5/img110.jpg';
+import foto111 from './assets/images/day-5/img113.jpg';
+import foto112 from './assets/images/day-5/img112.jpg';
+import foto113 from './assets/images/day-5/img113.jpg';
+import foto114 from './assets/images/day-5/img114.jpg';
+import foto115 from './assets/images/day-5/img115.jpg';
+import foto116 from './assets/images/day-5/img116.jpg';
+import foto117 from './assets/images/day-5/img117.jpg';
+import foto118 from './assets/images/day-5/img118.jpg';
+import foto119 from './assets/images/day-5/img119.jpg';
+import foto120 from './assets/images/day-5/img120.jpg';
+import foto121 from './assets/images/day-5/img121.jpg';
+import foto122 from './assets/images/day-5/img122.jpg';
+import foto123 from './assets/images/day-5/img123.jpg';
+import foto124 from './assets/images/day-5/img124.jpg';
+import foto125 from './assets/images/day-5/img125.jpg';
 
 export const photos = [
   {
@@ -561,6 +596,161 @@ export const photos = [
   },
   {
     src: foto94,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto95,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto96,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto97,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto98,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto99,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto100,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto101,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto102,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto103,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto104,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto105,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto106,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto107,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto108,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto109,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto110,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto111,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto112,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto113,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto114,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto115,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto116,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto117,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto118,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto119,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto120,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto121,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto122,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto123,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto124,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto125,
     width: 3,
     height: 4
   },
