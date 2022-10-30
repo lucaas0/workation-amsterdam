@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/workation-amsterdam/static/css/main.189dfdc7.css",
-    "main.js": "/workation-amsterdam/static/js/main.4a7bb6c5.js",
+    "main.js": "/workation-amsterdam/static/js/main.c0645fe8.js",
     "static/js/787.35ef9e07.chunk.js": "/workation-amsterdam/static/js/787.35ef9e07.chunk.js",
     "static/media/img152.JPG": "/workation-amsterdam/static/media/img152.ae63a8a8e86b7d5d7958.JPG",
     "static/media/img2.JPG": "/workation-amsterdam/static/media/img2.522de24fee08c82893ac.JPG",
@@ -192,11 +192,11 @@
     "static/media/void-logo.svg": "/workation-amsterdam/static/media/void-logo.2fd019a281a8c5e93a46f5a82efee2db.svg",
     "index.html": "/workation-amsterdam/index.html",
     "main.189dfdc7.css.map": "/workation-amsterdam/static/css/main.189dfdc7.css.map",
-    "main.4a7bb6c5.js.map": "/workation-amsterdam/static/js/main.4a7bb6c5.js.map",
+    "main.c0645fe8.js.map": "/workation-amsterdam/static/js/main.c0645fe8.js.map",
     "787.35ef9e07.chunk.js.map": "/workation-amsterdam/static/js/787.35ef9e07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.189dfdc7.css",
-    "static/js/main.4a7bb6c5.js"
+    "static/js/main.c0645fe8.js"
   ]
 }
