@@ -142,6 +142,22 @@ import foto136 from './assets/images/day-6/img136.jpg';
 import foto137 from './assets/images/day-6/img137.jpg';
 import foto138 from './assets/images/day-6/img138.jpg';
 
+import foto139 from './assets/images/day-7/img139.JPG';
+import foto140 from './assets/images/day-7/img140.JPG';
+import foto141 from './assets/images/day-7/img141.JPG';
+import foto142 from './assets/images/day-7/img142.JPG';
+import foto143 from './assets/images/day-7/img143.JPG';
+import foto144 from './assets/images/day-7/img144.JPG';
+import foto145 from './assets/images/day-7/img145.JPG';
+import foto146 from './assets/images/day-7/img146.JPG';
+import foto147 from './assets/images/day-7/img147.JPG';
+import foto148 from './assets/images/day-7/img148.JPG';
+import foto149 from './assets/images/day-7/img149.JPG';
+import foto150 from './assets/images/day-7/img150.JPG';
+import foto151 from './assets/images/day-7/img151.JPG';
+import foto152 from './assets/images/day-7/img152.JPG';
+import foto153 from './assets/images/day-7/img153.jpg';
+
 export const photos = [
   {
     src: foto1,
@@ -830,6 +846,81 @@ export const photos = [
   },
   {
     src: foto138,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto139,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto140,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto141,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto142,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto143,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto144,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto145,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto146,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto147,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto148,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto149,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto150,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto151,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto152,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto153,
     width: 3,
     height: 4
   },
