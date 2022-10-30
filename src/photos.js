@@ -61,6 +61,37 @@ import foto60 from './assets/images/day-3/img60.JPG';
 import foto61 from './assets/images/day-3/img61.JPG';
 import foto62 from './assets/images/day-3/img62.JPG';
 import foto63 from './assets/images/day-3/img63.JPG';
+import foto64 from './assets/images/day-4/img64.JPG';
+import foto65 from './assets/images/day-4/img65.JPG';
+import foto66 from './assets/images/day-4/img66.JPG';
+import foto67 from './assets/images/day-4/img67.JPG';
+import foto68 from './assets/images/day-4/img68.JPG';
+import foto69 from './assets/images/day-4/img69.JPG';
+import foto70 from './assets/images/day-4/img70.JPG';
+import foto71 from './assets/images/day-4/img71.JPG';
+import foto72 from './assets/images/day-4/img72.JPG';
+import foto73 from './assets/images/day-4/img73.JPG';
+import foto74 from './assets/images/day-4/img74.JPG';
+import foto75 from './assets/images/day-4/img75.JPG';
+import foto76 from './assets/images/day-4/img76.JPG';
+import foto77 from './assets/images/day-4/img77.JPG';
+import foto78 from './assets/images/day-4/img78.JPG';
+import foto79 from './assets/images/day-4/img79.JPG';
+import foto80 from './assets/images/day-4/img80.JPG';
+import foto81 from './assets/images/day-4/img81.JPG';
+import foto82 from './assets/images/day-4/img82.JPG';
+import foto83 from './assets/images/day-4/img83.JPG';
+import foto84 from './assets/images/day-4/img84.JPG';
+import foto85 from './assets/images/day-4/img85.jpg';
+import foto86 from './assets/images/day-4/img86.jpg';
+import foto87 from './assets/images/day-4/img87.jpg';
+import foto88 from './assets/images/day-4/img88.jpg';
+import foto89 from './assets/images/day-4/img89.jpg';
+import foto90 from './assets/images/day-4/img90.jpg';
+import foto91 from './assets/images/day-4/img91.jpg';
+import foto92 from './assets/images/day-4/img92.jpg';
+import foto93 from './assets/images/day-4/img93.jpg';
+import foto94 from './assets/images/day-4/img94.jpg';
 
 export const photos = [
   {
@@ -377,5 +408,160 @@ export const photos = [
     src: foto63,
     width: 4,
     height: 3
+  },
+  {
+    src: foto64,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto65,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto66,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto67,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto68,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto69,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto70,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto71,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto72,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto73,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto74,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto75,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto76,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto77,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto78,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto79,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto80,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto81,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto82,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto83,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto84,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto85,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto86,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto87,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto88,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto89,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto90,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto91,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto92,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto93,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto94,
+    width: 3,
+    height: 4
   },
 ];
