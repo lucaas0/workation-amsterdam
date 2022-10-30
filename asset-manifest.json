@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/workation-amsterdam/static/css/main.e448af93.css",
-    "main.js": "/workation-amsterdam/static/js/main.c87b0ec2.js",
+    "main.js": "/workation-amsterdam/static/js/main.956fc9ab.js",
     "static/js/787.35ef9e07.chunk.js": "/workation-amsterdam/static/js/787.35ef9e07.chunk.js",
     "static/media/img2.JPG": "/workation-amsterdam/static/media/img2.522de24fee08c82893ac.JPG",
     "static/media/img41.jpg": "/workation-amsterdam/static/media/img41.4a0d392c9d0ff380234e.jpg",
+    "static/media/img59.JPG": "/workation-amsterdam/static/media/img59.3846ee794e14a75353e2.JPG",
     "static/media/img36.jpg": "/workation-amsterdam/static/media/img36.e2eae8229857c360845d.jpg",
     "static/media/img40.jpg": "/workation-amsterdam/static/media/img40.efd31d09e1fb886a18c2.jpg",
+    "static/media/img60.JPG": "/workation-amsterdam/static/media/img60.a6bf258db88c981b6dba.JPG",
     "static/media/img10.jpg": "/workation-amsterdam/static/media/img10.d2138ee64428ef218cbe.jpg",
     "static/media/img21.jpg": "/workation-amsterdam/static/media/img21.7d1c350989f6cf5038ae.jpg",
+    "static/media/img63.JPG": "/workation-amsterdam/static/media/img63.3b5ba20309d8e6b5132e.JPG",
     "static/media/img8.jpg": "/workation-amsterdam/static/media/img8.bd78ed6155fc6280feae.jpg",
     "static/media/img20.jpg": "/workation-amsterdam/static/media/img20.ab87cea1705c0a2a8359.jpg",
     "static/media/img51.jpg": "/workation-amsterdam/static/media/img51.df3eaf6aa2d3db7ad356.jpg",
     "static/media/img25.jpg": "/workation-amsterdam/static/media/img25.31828921de8dd0daca42.jpg",
+    "static/media/img58.JPG": "/workation-amsterdam/static/media/img58.705b19c3e54a0ea19c51.JPG",
     "static/media/img30.jpg": "/workation-amsterdam/static/media/img30.b12b6def8ce853649f01.jpg",
     "static/media/img22.jpg": "/workation-amsterdam/static/media/img22.a746a18ce29dad1f0e15.jpg",
     "static/media/img9.jpg": "/workation-amsterdam/static/media/img9.61751cd15888a0312bae.jpg",
     "static/media/img19.jpg": "/workation-amsterdam/static/media/img19.dd419609f0d2bc958744.jpg",
+    "static/media/img62.JPG": "/workation-amsterdam/static/media/img62.6f804a3f0cdaf3d06dac.JPG",
     "static/media/img35.jpg": "/workation-amsterdam/static/media/img35.2ee8276141e7deac2345.jpg",
     "static/media/img39.jpg": "/workation-amsterdam/static/media/img39.d644364e490905094012.jpg",
     "static/media/img29.jpg": "/workation-amsterdam/static/media/img29.178caf522b999107d8aa.jpg",
@@ -27,6 +32,7 @@
     "static/media/img7.jpg": "/workation-amsterdam/static/media/img7.a6a66c63365e5a4b81ca.jpg",
     "static/media/img32.jpg": "/workation-amsterdam/static/media/img32.1ae2d72cd59ba262ac15.jpg",
     "static/media/img5.jpg": "/workation-amsterdam/static/media/img5.bf95e5d2c2b4fce8690c.jpg",
+    "static/media/img61.JPG": "/workation-amsterdam/static/media/img61.14a0ead52d146d4ab0ec.JPG",
     "static/media/img55.jpg": "/workation-amsterdam/static/media/img55.9c17f266489617daa5a6.jpg",
     "static/media/img37.jpg": "/workation-amsterdam/static/media/img37.3092372f2d1a8642167b.jpg",
     "static/media/img26.jpg": "/workation-amsterdam/static/media/img26.90e1aa488ad0da03b65b.jpg",
@@ -58,17 +64,19 @@
     "static/media/img16.jpg": "/workation-amsterdam/static/media/img16.2b4d9db5e1868b7fe203.jpg",
     "static/media/img1.jpg": "/workation-amsterdam/static/media/img1.92fbc56541bb989573ed.jpg",
     "static/media/img28.jpg": "/workation-amsterdam/static/media/img28.46d61c7e2535b81d8740.jpg",
+    "static/media/img56.JPG": "/workation-amsterdam/static/media/img56.7cf30c14ef41fc4b8b09.JPG",
+    "static/media/img57.JPG": "/workation-amsterdam/static/media/img57.f0aeb76b59b53f675c1c.JPG",
     "static/media/footer-logo-2.svg": "/workation-amsterdam/static/media/footer-logo-2.2ea567925307f5f5d8303b15386e5539.svg",
     "static/media/workation.svg": "/workation-amsterdam/static/media/workation.c141b7ad14c4d808d9e4a44f7b588d97.svg",
     "static/media/footer-logo.svg": "/workation-amsterdam/static/media/footer-logo.2a4b6e001944e52cb26c57fcfe560c08.svg",
     "static/media/void-logo.svg": "/workation-amsterdam/static/media/void-logo.2fd019a281a8c5e93a46f5a82efee2db.svg",
     "index.html": "/workation-amsterdam/index.html",
     "main.e448af93.css.map": "/workation-amsterdam/static/css/main.e448af93.css.map",
-    "main.c87b0ec2.js.map": "/workation-amsterdam/static/js/main.c87b0ec2.js.map",
+    "main.956fc9ab.js.map": "/workation-amsterdam/static/js/main.956fc9ab.js.map",
     "787.35ef9e07.chunk.js.map": "/workation-amsterdam/static/js/787.35ef9e07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e448af93.css",
-    "static/js/main.c87b0ec2.js"
+    "static/js/main.956fc9ab.js"
   ]
 }
