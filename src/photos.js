@@ -128,6 +128,20 @@ import foto123 from './assets/images/day-5/img123.jpg';
 import foto124 from './assets/images/day-5/img124.jpg';
 import foto125 from './assets/images/day-5/img125.jpg';
 
+import foto126 from './assets/images/day-6/img126.jpg';
+import foto127 from './assets/images/day-6/img127.jpg';
+import foto128 from './assets/images/day-6/img128.jpg';
+import foto129 from './assets/images/day-6/img129.jpg';
+import foto130 from './assets/images/day-6/img130.jpg';
+import foto131 from './assets/images/day-6/img131.jpg';
+import foto132 from './assets/images/day-6/img132.jpg';
+import foto133 from './assets/images/day-6/img133.jpg';
+import foto134 from './assets/images/day-6/img134.jpg';
+import foto135 from './assets/images/day-6/img135.jpg';
+import foto136 from './assets/images/day-6/img136.jpg';
+import foto137 from './assets/images/day-6/img137.jpg';
+import foto138 from './assets/images/day-6/img138.jpg';
+
 export const photos = [
   {
     src: foto1,
@@ -751,6 +765,71 @@ export const photos = [
   },
   {
     src: foto125,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto126,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto127,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto128,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto129,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto130,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto131,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto132,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto133,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto134,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto135,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto136,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto137,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto138,
     width: 3,
     height: 4
   },
