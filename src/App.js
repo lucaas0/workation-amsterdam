@@ -29,7 +29,7 @@ function App() {
         <div className='workers'>
           <span>Lucas Garcia</span>
           <span>Ruben Rodrigues</span>
-          <span>Octávio Domingues</span>
+          <span>Octávio Dominguez</span>
         </div>
       </div>
       <div className='photos'>
