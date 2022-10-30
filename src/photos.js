@@ -53,7 +53,14 @@ import foto52 from './assets/images/day-2/img52.jpg';
 import foto53 from './assets/images/day-2/img53.jpg';
 import foto54 from './assets/images/day-2/img54.jpg';
 import foto55 from './assets/images/day-2/img55.jpg';
-
+import foto56 from './assets/images/day-3/img56.JPG';
+import foto57 from './assets/images/day-3/img57.JPG';
+import foto58 from './assets/images/day-3/img58.JPG';
+import foto59 from './assets/images/day-3/img59.JPG';
+import foto60 from './assets/images/day-3/img60.JPG';
+import foto61 from './assets/images/day-3/img61.JPG';
+import foto62 from './assets/images/day-3/img62.JPG';
+import foto63 from './assets/images/day-3/img63.JPG';
 
 export const photos = [
   {
@@ -328,6 +335,46 @@ export const photos = [
   },
   {
     src: foto55,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto56,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto57,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto58,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto59,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto60,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto61,
+    width: 3,
+    height: 4
+  },
+  {
+    src: foto62,
+    width: 4,
+    height: 3
+  },
+  {
+    src: foto63,
     width: 4,
     height: 3
   },
